@@ -1,2 +1,2 @@
-# dw_matrix
-Projekt Matrix
+# Projekt transformacja, czyli Matrix - poznaj reguły gry
+ 
