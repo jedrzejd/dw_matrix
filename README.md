@@ -8,7 +8,7 @@
 
 * **Dzień 2** - Wprowadzenie do Colab i połączenie go z Google Drive oraz Github. 
 
-* **Dzień 3** - Poznanie miejsce, gdzie są dziesiątki milionów publicznie dostępnych danych 
+* **Dzień 3** - Poznanie miejsca, gdzie są dziesiątki milionów publicznie dostępnych danych 
 
 * **Dzień 4** - Napisanie prostego modelu uczenia maszynowego. 
 
